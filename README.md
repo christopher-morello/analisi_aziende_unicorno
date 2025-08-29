@@ -30,7 +30,7 @@ In queste attività, scoprirò le caratteristiche del dataset e utilizzerò le v
 Lo scopo è quello di utilizzere queste informazioni per comprendere come e quando le aziende raggiungono questo prestigioso traguardo e per fornire raccomandazioni sui prossimi passi da compiere ad una sociaetà fittizia di di investimenti.
 
 - [Analisi EDA_01](EDA_Aziende_Unicorn.ipynb)
-- [Analisi EDA 02]()
+- [Analisi EDA 02](02_EDA_Aziende_Unicorn.ipynb)
 
 
 
