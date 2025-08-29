@@ -27,6 +27,7 @@ Il set di dati contiene:
 ## Riepilogo dell'analisi
 
 In questa attività, scoprirò le caratteristiche del dataset e utilizzerò le visualizzazioni per analizzarlo attraverso l'analisi esplorativa (EDA).
+- [Analisi EDA](EDA_Aziende_Unicorn.ipynb)
 
 Lo scopo è quello di utilizzere queste informazioni per comprendere come e quando le aziende raggiungono questo prestigioso traguardo e per fornire raccomandazioni sui prossimi passi da compiere ad una sociaetà fittizia di di investimenti.
 
